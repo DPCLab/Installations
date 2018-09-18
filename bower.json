@@ -1,0 +1,17 @@
+{
+  "name": "installations",
+  "description": "Website hosting all download links for DPC projects",
+  "main": "gulpfile.js",
+  "authors": [
+    "Jeffrey Shen <jeffreyshencc@gmail.com> (http://jeffreyshen.com)"
+  ],
+  "license": "GNU General Public License",
+  "homepage": "https://github.com/DPCLab/Installations",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "installations",
+  "version": "1.0.0",
+  "description": "Website hosting all download links for DPC projects",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DPCLab/Installations.git"
+  },
+  "author": "Jeffrey Shen <jeffreyshencc@gmail.com> (http://jeffreyshen.com)",
+  "license": "GNU General Public License",
+  "bugs": {
+    "url": "https://github.com/DPCLab/Installations/issues"
+  },
+  "homepage": "https://github.com/DPCLab/Installations#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
